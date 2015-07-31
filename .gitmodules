@@ -500,6 +500,9 @@
 [submodule "libs/err"]
 	path = libs/err
 	url = https://github.com/psiha/err
+[submodule "libs/mmap"]
+	path = libs/mmap
+	url = https://github.com/psiha/mmap
 [submodule "vmd"]
 	path = libs/vmd
 	url = https://github.com/boostorg/vmd.git

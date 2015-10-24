@@ -396,7 +396,7 @@
 	fetchRecurseSubmodules = on-demand
 [submodule "coroutine2"]
 	path = libs/coroutine2
-	url = ../coroutine2.git
+	url = https://github.com/boostorg/coroutine2.git
 	fetchRecurseSubmodules = on-demand
 [submodule "ratio"]
 	path = libs/ratio

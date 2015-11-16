@@ -497,6 +497,7 @@
 [submodule "libs/config"]
 	path = libs/config
 	url = https://github.com/psiha/config
+	branch = develop
 [submodule "libs/err"]
 	path = libs/err
 	url = https://github.com/psiha/err
